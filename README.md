@@ -53,3 +53,15 @@ Main models:
 
 ```bash
 git clone https://github.com/kumarrajeshwari7022-afk/Shoppingcart.git
+
+## Internship Task
+
+Task ID: PY-EC-001
+
+Student Code: DAS-EC-001
+
+Task:
+E-Commerce Shopping Platform
+
+FreeInternships Task:
+https://www.freeinternships.in/python-full-stack-internship/free-python-full-stack-internship-online-ecommerce-shopping-platform-py-ec-001.php
