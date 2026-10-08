@@ -65,3 +65,8 @@ E-Commerce Shopping Platform
 
 FreeInternships Task:
 https://www.freeinternships.in/python-full-stack-internship/free-python-full-stack-internship-online-ecommerce-shopping-platform-py-ec-001.php
+
+## Demo Video
+
+YouTube:
+https://youtu.be/AOMguElViBg
